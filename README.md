@@ -1,0 +1,6 @@
+# Poubelle-Intelligente
+In order to promote responsible waste management, we have designed an intelligent trash bin equipped with a Raspberry Pi and a camera that utilizes machine learning algorithms to determine the waste classification level of deposited items. When a user correctly deposits a classified waste item into the trash bin, the system automatically increments their account with a certain amount of money. The accounts and transactions are stored in a Firebase database. To use the trash bin, users must first register on a platform to obtain an identifier that allows them to open the bin's door and safely deposit their waste.
+
+This prototype combines advanced technologies, such as computer vision and machine learning, to incentivize proper waste disposal and encourage users to participate in waste sorting and recycling efforts. By integrating a monetary reward system, it aims to motivate individuals to adopt sustainable waste management practices and contribute to a cleaner environment.
+
+The intelligent trash bin prototype not only addresses the need for efficient waste sorting and disposal but also emphasizes the importance of user engagement and education in achieving sustainable waste management goals.
